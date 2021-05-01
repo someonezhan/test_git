@@ -1,2 +1,2 @@
 print('first demo')
-print('second sentence')
+print('secod sentence')
