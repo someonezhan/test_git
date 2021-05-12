@@ -1,2 +1,2 @@
 test2
-test git pull
+test git
