@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4dd52a6f-05d0-4ea7-b8ee-100b814f883b" name="Default Changelist" comment="12332">
+      <change beforePath="$PROJECT_DIR$/te.sh" beforeDir="false" afterPath="$PROJECT_DIR$/te.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rumCQYaZBgBRYK2hbni2fW2xRR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gitlab_project/gitlab_pipline_test" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4dd52a6f-05d0-4ea7-b8ee-100b814f883b" name="Default Changelist" comment="" />
+      <created>1619834220966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619834220966</updated>
+      <workItem from="1619834222085" duration="4349000" />
+      <workItem from="1620273058460" duration="2069000" />
+      <workItem from="1620700401371" duration="7492000" />
+    </task>
+    <task id="LOCAL-00001" summary="clone test">
+      <created>1619834278879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619834278879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="clone test">
+      <created>1619834332637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619834332637</updated>
+    </task>
+    <task id="LOCAL-00003" summary="clone test">
+      <created>1619836335753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619836335753</updated>
+    </task>
+    <task id="LOCAL-00004" summary="clone test">
+      <created>1619836702361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619836702361</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete test.sh">
+      <created>1620700454110</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1620700454110</updated>
+    </task>
+    <task id="LOCAL-00006" summary="qwe">
+      <created>1620807967114</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620807967114</updated>
+    </task>
+    <task id="LOCAL-00007" summary="qwe">
+      <created>1620808304125</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620808304125</updated>
+    </task>
+    <task id="LOCAL-00008" summary="123">
+      <created>1620810246072</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1620810246072</updated>
+    </task>
+    <task id="LOCAL-00009" summary="12332">
+      <created>1620811094727</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1620811094727</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clone test" />
+    <MESSAGE value="delete test.sh" />
+    <MESSAGE value="qwe" />
+    <MESSAGE value="123" />
+    <MESSAGE value="12332" />
+    <option name="LAST_COMMIT_MESSAGE" value="12332" />
+  </component>
+</project>
