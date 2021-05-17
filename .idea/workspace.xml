@@ -121,7 +121,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="38" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="38" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
