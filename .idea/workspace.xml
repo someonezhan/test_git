@@ -141,6 +141,8 @@
     <MESSAGE value="qwe" />
     <MESSAGE value="123" />
     <MESSAGE value="12332" />
-    <option name="LAST_COMMIT_MESSAGE" value="12332" />
+    <MESSAGE value="git test" />
+    <MESSAGE value="Merge branch 'master' of github.com:someonezhan/test_git&#10;&#10; Conflicts:&#10;&#9;te.sh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of github.com:someonezhan/test_git&#10;&#10; Conflicts:&#10;&#9;te.sh" />
   </component>
 </project>
